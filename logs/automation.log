@@ -1,0 +1,186 @@
+06:24:30.278 [main] INFO  testCases.AccountRegistrationTest - *** Starting AccountRegistrationTest ***
+06:24:30.988 [main] INFO  testCases.AccountRegistrationTest - My Account is clicked
+06:24:32.056 [main] INFO  testCases.AccountRegistrationTest - Register is clicked
+06:24:32.059 [main] INFO  testCases.AccountRegistrationTest - Providing customer information
+06:24:36.529 [main] INFO  testCases.AccountRegistrationTest - Clicking on continue
+06:24:36.698 [main] INFO  testCases.AccountRegistrationTest - Validating expected message
+06:24:36.706 [main] INFO  testCases.AccountRegistrationTest - *** Finished AccountRegistrationTest ***
+06:24:42.692 [main] INFO  testCases.LoginTest - *** Starting Login Test ***
+06:24:43.539 [main] INFO  testCases.LoginTest - My Account is clicked
+06:24:44.507 [main] INFO  testCases.LoginTest - Login is clicked
+06:24:44.661 [main] INFO  testCases.LoginTest - Email Address is entered
+06:24:44.783 [main] INFO  testCases.LoginTest - Password is entered
+06:24:46.174 [main] INFO  testCases.LoginTest - Login button is clicked
+06:24:46.270 [main] INFO  testCases.LoginTest - My Account Page is validated
+06:24:46.271 [main] INFO  testCases.LoginTest - *** Finished Login Test ***
+06:59:43.964 [main] INFO  testCases.AccountRegistrationTest - *** Starting AccountRegistrationTest ***
+06:59:44.843 [main] INFO  testCases.AccountRegistrationTest - My Account is clicked
+06:59:46.150 [main] INFO  testCases.AccountRegistrationTest - Register is clicked
+06:59:46.153 [main] INFO  testCases.AccountRegistrationTest - Providing customer information
+06:59:50.489 [main] INFO  testCases.AccountRegistrationTest - Clicking on continue
+06:59:50.561 [main] INFO  testCases.AccountRegistrationTest - Validating expected message
+06:59:50.565 [main] INFO  testCases.AccountRegistrationTest - *** Finished AccountRegistrationTest ***
+06:59:56.471 [main] INFO  testCases.LoginTest - *** Starting Login Test ***
+06:59:57.086 [main] INFO  testCases.LoginTest - My Account is clicked
+06:59:58.287 [main] INFO  testCases.LoginTest - Login is clicked
+06:59:58.549 [main] INFO  testCases.LoginTest - Email Address is entered
+06:59:58.685 [main] INFO  testCases.LoginTest - Password is entered
+07:00:00.164 [main] INFO  testCases.LoginTest - Login button is clicked
+07:00:00.235 [main] INFO  testCases.LoginTest - My Account Page is validated
+07:00:00.235 [main] INFO  testCases.LoginTest - *** Finished Login Test ***
+07:15:32.391 [main] INFO  testCases.AccountRegistrationTest - *** Starting AccountRegistrationTest ***
+07:15:32.702 [main] INFO  testCases.AccountRegistrationTest - My Account is clicked
+07:15:34.401 [main] INFO  testCases.AccountRegistrationTest - Register is clicked
+07:15:34.411 [main] INFO  testCases.AccountRegistrationTest - Providing customer information
+07:15:39.467 [main] INFO  testCases.AccountRegistrationTest - Clicking on continue
+07:15:39.548 [main] INFO  testCases.AccountRegistrationTest - Validating expected message
+07:15:39.555 [main] INFO  testCases.AccountRegistrationTest - *** Finished AccountRegistrationTest ***
+07:15:45.442 [main] INFO  testCases.LoginTest - *** Starting Login Test ***
+07:15:46.216 [main] INFO  testCases.LoginTest - My Account is clicked
+07:15:47.510 [main] INFO  testCases.LoginTest - Login is clicked
+07:15:47.675 [main] INFO  testCases.LoginTest - Email Address is entered
+07:15:47.843 [main] INFO  testCases.LoginTest - Password is entered
+07:15:49.091 [main] INFO  testCases.LoginTest - Login button is clicked
+07:15:49.187 [main] INFO  testCases.LoginTest - My Account Page is validated
+07:15:49.187 [main] INFO  testCases.LoginTest - *** Finished Login Test ***
+07:16:54.563 [main] INFO  testCases.AccountRegistrationTest - *** Starting AccountRegistrationTest ***
+07:16:55.465 [main] INFO  testCases.AccountRegistrationTest - My Account is clicked
+07:16:56.358 [main] INFO  testCases.AccountRegistrationTest - Register is clicked
+07:16:56.361 [main] INFO  testCases.AccountRegistrationTest - Providing customer information
+07:17:00.999 [main] INFO  testCases.AccountRegistrationTest - Clicking on continue
+07:17:01.061 [main] INFO  testCases.AccountRegistrationTest - Validating expected message
+07:17:01.065 [main] INFO  testCases.AccountRegistrationTest - *** Finished AccountRegistrationTest ***
+07:17:07.172 [main] INFO  testCases.LoginTest - *** Starting Login Test ***
+07:17:07.898 [main] INFO  testCases.LoginTest - My Account is clicked
+07:17:08.528 [main] INFO  testCases.LoginTest - Login is clicked
+07:17:08.709 [main] INFO  testCases.LoginTest - Email Address is entered
+07:17:08.863 [main] INFO  testCases.LoginTest - Password is entered
+07:17:10.179 [main] INFO  testCases.LoginTest - Login button is clicked
+07:17:10.368 [main] INFO  testCases.LoginTest - My Account Page is validated
+07:17:10.368 [main] INFO  testCases.LoginTest - *** Finished Login Test ***
+07:23:46.454 [main] INFO  testCases.AccountRegistrationTest - *** Starting AccountRegistrationTest ***
+07:23:47.246 [main] INFO  testCases.AccountRegistrationTest - My Account is clicked
+07:23:48.482 [main] INFO  testCases.AccountRegistrationTest - Register is clicked
+07:23:48.485 [main] INFO  testCases.AccountRegistrationTest - Providing customer information
+07:23:52.944 [main] INFO  testCases.AccountRegistrationTest - Clicking on continue
+07:23:52.996 [main] INFO  testCases.AccountRegistrationTest - Validating expected message
+07:23:53.002 [main] INFO  testCases.AccountRegistrationTest - *** Finished AccountRegistrationTest ***
+07:23:58.997 [main] INFO  testCases.LoginTest - *** Starting Login Test ***
+07:23:59.481 [main] INFO  testCases.LoginTest - My Account is clicked
+07:24:00.351 [main] INFO  testCases.LoginTest - Login is clicked
+07:24:00.501 [main] INFO  testCases.LoginTest - Email Address is entered
+07:24:00.637 [main] INFO  testCases.LoginTest - Password is entered
+07:24:01.997 [main] INFO  testCases.LoginTest - Login button is clicked
+07:24:02.068 [main] INFO  testCases.LoginTest - My Account Page is validated
+07:24:02.068 [main] INFO  testCases.LoginTest - *** Finished Login Test ***
+07:27:40.976 [main] INFO  testCases.LoginTest - *** Starting Login Test ***
+07:27:41.126 [main] INFO  testCases.LoginTest - My Account is clicked
+07:27:42.658 [main] INFO  testCases.LoginTest - Login is clicked
+07:27:42.826 [main] INFO  testCases.LoginTest - Email Address is entered
+07:27:42.980 [main] INFO  testCases.LoginTest - Password is entered
+07:27:43.708 [main] INFO  testCases.LoginTest - Login button is clicked
+07:29:23.230 [main] INFO  testCases.LoginTest - *** Starting Login Test ***
+07:29:23.490 [main] INFO  testCases.LoginTest - My Account is clicked
+07:29:24.358 [main] INFO  testCases.LoginTest - Login is clicked
+07:29:24.510 [main] INFO  testCases.LoginTest - Email Address is entered
+07:29:24.648 [main] INFO  testCases.LoginTest - Password is entered
+07:29:26.166 [main] INFO  testCases.LoginTest - Login button is clicked
+07:29:26.403 [main] INFO  testCases.LoginTest - My Account Page is validated
+07:29:26.403 [main] INFO  testCases.LoginTest - *** Finished Login Test ***
+07:30:23.929 [main] INFO  testCases.AccountRegistrationTest - *** Starting AccountRegistrationTest ***
+07:30:24.354 [main] INFO  testCases.AccountRegistrationTest - My Account is clicked
+07:30:25.508 [main] INFO  testCases.AccountRegistrationTest - Register is clicked
+07:30:25.510 [main] INFO  testCases.AccountRegistrationTest - Providing customer information
+07:30:30.191 [main] INFO  testCases.AccountRegistrationTest - Clicking on continue
+07:30:30.283 [main] INFO  testCases.AccountRegistrationTest - Validating expected message
+07:30:30.287 [main] INFO  testCases.AccountRegistrationTest - *** Finished AccountRegistrationTest ***
+07:31:30.172 [main] INFO  testCases.LoginTest - *** Starting Login Test ***
+07:31:30.359 [main] INFO  testCases.LoginTest - My Account is clicked
+07:31:31.509 [main] INFO  testCases.LoginTest - Login is clicked
+07:31:31.668 [main] INFO  testCases.LoginTest - Email Address is entered
+07:31:31.828 [main] INFO  testCases.LoginTest - Password is entered
+07:31:32.730 [main] INFO  testCases.LoginTest - Login button is clicked
+07:32:28.614 [main] INFO  testCases.LoginTest - *** Starting Login Test ***
+07:32:29.285 [main] INFO  testCases.LoginTest - My Account is clicked
+07:32:30.245 [main] INFO  testCases.LoginTest - Login is clicked
+07:32:30.395 [main] INFO  testCases.LoginTest - Email Address is entered
+07:32:30.528 [main] INFO  testCases.LoginTest - Password is entered
+07:32:31.564 [main] INFO  testCases.LoginTest - Login button is clicked
+07:33:35.672 [main] INFO  testCases.LoginTest - *** Starting Login Test ***
+07:33:35.996 [main] INFO  testCases.LoginTest - My Account is clicked
+07:33:37.207 [main] INFO  testCases.LoginTest - Login is clicked
+07:33:37.378 [main] INFO  testCases.LoginTest - Email Address is entered
+07:33:37.533 [main] INFO  testCases.LoginTest - Password is entered
+07:33:38.636 [main] INFO  testCases.LoginTest - Login button is clicked
+07:33:38.741 [main] INFO  testCases.LoginTest - My Account Page is validated
+07:33:38.741 [main] INFO  testCases.LoginTest - *** Finished Login Test ***
+07:35:13.424 [main] INFO  testCases.AccountRegistrationTest - *** Starting AccountRegistrationTest ***
+07:35:13.833 [main] INFO  testCases.AccountRegistrationTest - My Account is clicked
+07:35:14.847 [main] INFO  testCases.AccountRegistrationTest - Register is clicked
+07:35:14.858 [main] INFO  testCases.AccountRegistrationTest - Providing customer information
+07:35:19.319 [main] INFO  testCases.AccountRegistrationTest - Clicking on continue
+07:35:19.393 [main] INFO  testCases.AccountRegistrationTest - Validating expected message
+07:36:19.359 [main] INFO  testCases.AccountRegistrationTest - *** Starting AccountRegistrationTest ***
+07:36:20.093 [main] INFO  testCases.AccountRegistrationTest - My Account is clicked
+07:36:21.350 [main] INFO  testCases.AccountRegistrationTest - Register is clicked
+07:36:21.354 [main] INFO  testCases.AccountRegistrationTest - Providing customer information
+07:36:25.572 [main] INFO  testCases.AccountRegistrationTest - Clicking on continue
+07:36:25.634 [main] INFO  testCases.AccountRegistrationTest - Validating expected message
+07:36:25.638 [main] INFO  testCases.AccountRegistrationTest - *** Finished AccountRegistrationTest ***
+07:37:24.085 [main] INFO  testCases.AccountRegistrationTest - *** Starting AccountRegistrationTest ***
+07:37:24.524 [main] INFO  testCases.AccountRegistrationTest - My Account is clicked
+07:37:25.488 [main] INFO  testCases.AccountRegistrationTest - Register is clicked
+07:37:25.502 [main] INFO  testCases.AccountRegistrationTest - Providing customer information
+07:37:30.254 [main] INFO  testCases.AccountRegistrationTest - Clicking on continue
+07:37:30.354 [main] INFO  testCases.AccountRegistrationTest - Validating expected message
+07:37:30.359 [main] INFO  testCases.AccountRegistrationTest - *** Finished AccountRegistrationTest ***
+07:55:28.348 [main] INFO  testCases.AccountRegistrationTest - *** Starting AccountRegistrationTest ***
+07:55:28.894 [main] INFO  testCases.AccountRegistrationTest - My Account is clicked
+07:55:30.148 [main] INFO  testCases.AccountRegistrationTest - Register is clicked
+07:55:30.154 [main] INFO  testCases.AccountRegistrationTest - Providing customer information
+07:55:34.312 [main] INFO  testCases.AccountRegistrationTest - Clicking on continue
+07:55:34.394 [main] INFO  testCases.AccountRegistrationTest - Validating expected message
+07:55:34.400 [main] INFO  testCases.AccountRegistrationTest - *** Finished AccountRegistrationTest ***
+07:55:44.324 [main] INFO  testCases.LoginTest - *** Starting Login Test ***
+07:55:44.430 [main] INFO  testCases.LoginTest - My Account is clicked
+07:55:46.664 [main] INFO  testCases.LoginTest - Login is clicked
+07:55:46.954 [main] INFO  testCases.LoginTest - Email Address is entered
+07:55:47.086 [main] INFO  testCases.LoginTest - Password is entered
+07:55:49.096 [main] INFO  testCases.LoginTest - Login button is clicked
+07:55:49.330 [main] INFO  testCases.LoginTest - My Account Page is validated
+07:55:49.331 [main] INFO  testCases.LoginTest - *** Finished Login Test ***
+22:35:24.158 [main] INFO  testCases.AccountRegistrationTest - *** Starting AccountRegistrationTest ***
+22:35:25.715 [main] INFO  testCases.AccountRegistrationTest - My Account is clicked
+22:35:29.756 [main] INFO  testCases.AccountRegistrationTest - Register is clicked
+22:35:29.759 [main] INFO  testCases.AccountRegistrationTest - Providing customer information
+22:35:44.167 [main] INFO  testCases.AccountRegistrationTest - Clicking on continue
+22:35:44.428 [main] INFO  testCases.AccountRegistrationTest - Validating expected message
+22:35:44.438 [main] INFO  testCases.AccountRegistrationTest - *** Finished AccountRegistrationTest ***
+22:59:13.879 [main] INFO  testCases.AccountRegistrationTest - *** Starting AccountRegistrationTest ***
+22:59:14.915 [main] INFO  testCases.AccountRegistrationTest - My Account is clicked
+22:59:16.190 [main] INFO  testCases.AccountRegistrationTest - Register is clicked
+22:59:16.196 [main] INFO  testCases.AccountRegistrationTest - Providing customer information
+22:59:20.661 [main] INFO  testCases.AccountRegistrationTest - Clicking on continue
+22:59:20.726 [main] INFO  testCases.AccountRegistrationTest - Validating expected message
+22:59:20.730 [main] INFO  testCases.AccountRegistrationTest - *** Finished AccountRegistrationTest ***
+23:04:15.262 [main] INFO  testCases.AccountRegistrationTest - *** Starting AccountRegistrationTest ***
+23:04:16.277 [main] INFO  testCases.AccountRegistrationTest - My Account is clicked
+23:04:17.329 [main] INFO  testCases.AccountRegistrationTest - Register is clicked
+23:04:17.332 [main] INFO  testCases.AccountRegistrationTest - Providing customer information
+23:04:21.316 [main] INFO  testCases.AccountRegistrationTest - Clicking on continue
+23:04:21.455 [main] INFO  testCases.AccountRegistrationTest - Validating expected message
+23:04:21.469 [main] INFO  testCases.AccountRegistrationTest - *** Finished AccountRegistrationTest ***
+23:06:41.014 [main] INFO  testCases.AccountRegistrationTest - *** Starting AccountRegistrationTest ***
+23:06:41.200 [main] INFO  testCases.AccountRegistrationTest - My Account is clicked
+23:06:42.613 [main] INFO  testCases.AccountRegistrationTest - Register is clicked
+23:06:42.616 [main] INFO  testCases.AccountRegistrationTest - Providing customer information
+23:06:46.689 [main] INFO  testCases.AccountRegistrationTest - Clicking on continue
+23:06:46.741 [main] INFO  testCases.AccountRegistrationTest - Validating expected message
+23:06:46.746 [main] INFO  testCases.AccountRegistrationTest - *** Finished AccountRegistrationTest ***
+23:15:02.544 [main] INFO  testCases.AccountRegistrationTest - *** Starting AccountRegistrationTest ***
+23:15:05.374 [main] INFO  testCases.AccountRegistrationTest - My Account is clicked
+23:15:07.075 [main] INFO  testCases.AccountRegistrationTest - Register is clicked
+23:15:07.085 [main] INFO  testCases.AccountRegistrationTest - Providing customer information
+23:15:12.182 [main] INFO  testCases.AccountRegistrationTest - Clicking on continue
+23:15:12.332 [main] INFO  testCases.AccountRegistrationTest - Validating expected message
+23:15:12.339 [main] INFO  testCases.AccountRegistrationTest - *** Finished AccountRegistrationTest ***
